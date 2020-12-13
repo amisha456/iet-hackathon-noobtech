@@ -1,13 +1,13 @@
-Project by- Vijeta Priya , Dipti Lulla and Amisha Rathore
+Project by- Vijeta Priya , Dipti Lulla and Amisha Rathore.
 
 Tech Stack-
 
 HTML
-CSS
-Java Script
-Nodejs
-MongoDB
-Figma
+1. CSS
+2. Java Script
+3. Nodejs
+4. MongoDB
+5. Figma
 
 Description-
 
